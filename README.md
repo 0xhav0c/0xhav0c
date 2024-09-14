@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [secybr.com](secybr.com)
 
-- 📝 I regularly write articles on [secybr.coms](secybr.coms)
+- 📝 I regularly write articles on [secybr.com](secybr.com)
 
 - 💬 Ask me about **Penetration testing, Red Teaming, Attack Surface Management, Manual Device Inspection Evasion & Bypass, Malware Development, Reverse Engineering, Python**
 
