@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [secybr.com](secybr.com)
 
-- 💬 Ask me about **Penetration testing, Red Teaming, Attack Surface Management, Manual Device Inspection Evasion & Bypass, Malware Development, Reverse Engineering, Python**
+- 💬 Ask me about **Penetration testing, Red Teaming, Attack Surface Management, Manual Device Inspection Evasion & Bypass, Malware Development, Reverse Engineering**
 
 - 📫 How to reach me **asilhan@secybr.com**
 
