@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/0xhav0c" target="blank"><img src="https://img.shields.io/twitter/follow/0xhav0c?logo=twitter&style=for-the-badge" alt="0xhav0c" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [secybr.com](secybr.com)
+- 👨‍💻 All of my projects are available at [secybr.com](https://secybr.com)
 
-- 📝 I regularly write articles on [secybr.com](secybr.com)
+- 📝 I regularly write articles on [secybr.com](https://secybr.com)
 
 - 💬 Ask me about **Penetration testing, Red Teaming, Attack Surface Management, Manual Device Inspection Evasion & Bypass, Malware Development, Reverse Engineering**
 
